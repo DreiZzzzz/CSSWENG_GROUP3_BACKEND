@@ -8,3 +8,9 @@ Techstack:
 - MongoDB
 
 **NOTE: Use standard HTTP status for responses**
+> [!IMPORTANT]
+> **NOTE: What to do after `git clone`**
+>
+> ```bash
+> npm install
+> ```
