@@ -4,7 +4,7 @@ import { userLogIn } from "../services/user.js";
 const router = express.Router();
 
 router.get("/test", function (req, res) {
-  res.status(200).json("Hello, world!");
+  res.status(200).json("Hello, world! HAHA");
 });
 
 // implement other routes here
