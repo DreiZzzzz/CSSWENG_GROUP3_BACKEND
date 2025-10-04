@@ -8,9 +8,26 @@ Techstack:
 - MongoDB
 
 **NOTE: Use standard HTTP status for responses**
+
+## **Usage**
+
 > [!IMPORTANT]
 > **NOTE: What to do after `git clone`**
 >
 > ```bash
 > npm install
 > ```
+
+1. `Run the program`
+
+```bash
+npm run dev
+```
+
+2. `response`:
+
+```bash
+  [nodemon] restarting due to changes...
+  [nodemon] starting `node index.js`
+  Pro-ject server is running on 4000
+```
