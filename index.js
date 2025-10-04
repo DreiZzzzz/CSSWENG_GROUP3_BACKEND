@@ -1,4 +1,3 @@
-// add .env to .gitignore later (when in production)
 import router from "./routes/routes.js";
 
 import express from "express";
@@ -7,7 +6,7 @@ import mongoose from "mongoose";
 import "dotenv/config";
 import cors from "cors";
 
-// from /models
+// from ./models
 import User from "./models/User.js";
 
 //require("dotenv/config"); // put sensitive info in .env file
