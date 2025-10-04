@@ -24,7 +24,7 @@ Techstack:
 npm run dev
 ```
 
-2. `response`:
+2. `sample response`:
 
 ```bash
   [nodemon] restarting due to changes...
