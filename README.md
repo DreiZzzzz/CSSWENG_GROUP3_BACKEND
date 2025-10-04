@@ -28,6 +28,7 @@ npm run dev
 
 ```bash
   [nodemon] restarting due to changes...
-  [nodemon] starting `node index.js`
-  Pro-ject server is running on 4000
+  [nodemon] starting `node server.js`
+  GROUP 3 BACKEND SERVER
+  TEST PORT: 3000
 ```
