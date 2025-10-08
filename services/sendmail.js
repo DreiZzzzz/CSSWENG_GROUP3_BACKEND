@@ -29,7 +29,7 @@ export async function sendApplicationEmail(formData, mouFile) {
 
   // Email content
   const mailOptions = {
-    from: `"Community Partner Portal" <${process.env.EMAIL_USER}>`,
+    from: `"Community Partner Portal" <noreply@cssweng.test>`,
     to: process.env.RECEIVER_EMAIL,
     subject: `New Partner Application - ${orgName}`,
     text: `
